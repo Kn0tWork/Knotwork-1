@@ -1,0 +1,17 @@
+<html>
+
+    <head>
+        <title>You have done well.</title>
+        <meta name="description" content="I'm not sure what I'm gonna use this website for; this is supposed to be a description of it's purpose, but I'm just not sure. Maybe when I do figure it out, I'll end up coming back to this, but in all likeleyhood, I'll foret about it">
+    </head>
+
+    <body>
+        <h1>Knot 1</h1>
+        <p>Here you are. There are three numbers associated with the following recording. the length of the recording is one of them.</p>\
+
+        <p>Multiply all three and input the product in the password bar below and you will move on to the next stage of the puzzle.</p>\
+    </body>
+    <img src="908a746b0989c8b3aff7c626c57a15b50908a1b7.png"/>
+    <input type="password">
+
+</html>
